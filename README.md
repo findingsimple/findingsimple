@@ -31,6 +31,14 @@ Respect others and their property.
 
 ---
 
+## 🧠 Rule #3
+
+> 💬 “People matter.”  
+
+Treat everyone with respect, empathy, and understanding, recognizing their contributions, and fostering a sense of belonging and value.
+
+---
+
 ## 🚧 Projects in Progress
 
 Working on a few fun things — stay tuned!
