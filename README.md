@@ -15,23 +15,15 @@ I'm a developer and tinkerer based in Port Noarlunga, South Australia — on the
 
 ---
 
-## 🧠 Rule #1
+## 🧠 Rules
 
 > 💬 “Keep it simple, stupid.”  
 
-Whether it's code, design, or life in general — I try to reduce noise and focus on what matters.
-
----
-
-## 🧠 Rule #2
+Whether it's code, design, or life in general — reduce noise and focus on what matters.
 
 > 💬 “Leave it better than you found it.”  
 
 Respect others and their property.
-
----
-
-## 🧠 Rule #3
 
 > 💬 “People matter.”  
 
