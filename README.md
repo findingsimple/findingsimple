@@ -11,7 +11,7 @@ I'm a developer and tinkerer based in Port Noarlunga, South Australia — on the
 - 🌐 WordPress, Laravel
 - 🧱 3D printing, modelling, and messing with plastic blobs until they look cool - Bambu Lab A1
 - 🧰 Laser cutting - XTool P2S
-- 🧙 Magic the Gattering deck building (Commander / EDH)
+- 🧙 Magic the Gathering deck building (Commander / EDH)
 
 ---
 
